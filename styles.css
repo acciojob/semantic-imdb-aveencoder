@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+html { scroll-behavior: smooth; }
+    nav ul { list-style: none; padding: 0; }
+    nav li { display: inline; margin-right: 1em; }
+    aside { border: 1px solid #ccc; padding: 1em; margin: 1em 0; background: #f9f9f9; }
+    footer { margin-top: 2em; font-size: 0.9em; color: #555; }
